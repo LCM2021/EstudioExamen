@@ -8,3 +8,13 @@ C:\Users\Usuario\source\repos\LCM2021\EstudioExamen\Estudioo\obj\Debug\Estudioo.
 C:\Users\Usuario\source\repos\LCM2021\EstudioExamen\Estudioo\obj\Debug\Estudioo.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\source\repos\LCM2021\EstudioExamen\Estudioo\obj\Debug\Estudioo.exe
 C:\Users\Usuario\source\repos\LCM2021\EstudioExamen\Estudioo\obj\Debug\Estudioo.pdb
+C:\Users\laura\Source\Repos\EstudioExamen\Estudioo\bin\Debug\Estudioo.exe.config
+C:\Users\laura\Source\Repos\EstudioExamen\Estudioo\bin\Debug\Estudioo.exe
+C:\Users\laura\Source\Repos\EstudioExamen\Estudioo\bin\Debug\Estudioo.pdb
+C:\Users\laura\Source\Repos\EstudioExamen\Estudioo\obj\Debug\Estudioo.csprojAssemblyReference.cache
+C:\Users\laura\Source\Repos\EstudioExamen\Estudioo\obj\Debug\Estudioo.Form1.resources
+C:\Users\laura\Source\Repos\EstudioExamen\Estudioo\obj\Debug\Estudioo.Properties.Resources.resources
+C:\Users\laura\Source\Repos\EstudioExamen\Estudioo\obj\Debug\Estudioo.csproj.GenerateResource.cache
+C:\Users\laura\Source\Repos\EstudioExamen\Estudioo\obj\Debug\Estudioo.csproj.CoreCompileInputs.cache
+C:\Users\laura\Source\Repos\EstudioExamen\Estudioo\obj\Debug\Estudioo.exe
+C:\Users\laura\Source\Repos\EstudioExamen\Estudioo\obj\Debug\Estudioo.pdb
